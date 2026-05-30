@@ -1,0 +1,10 @@
+import calc
+print("2 + 3 =", calc.add(2, 3))
+print("2 - 3 =", calc.subtract(2, 3))
+print("2 * 3 =", calc.mul(2, 3))
+print("2 / 3 =", calc.div(2, 3))
+print( calc. circle(2))
+print(calc.triangle(2,3))
+print(calc.larger(2,3))
+print(calc.possitive(2))
+print(calc.evenodd(2))
