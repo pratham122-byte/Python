@@ -1,0 +1,5 @@
+add_book("python programming","john smith")
+print()
+add_member("Alice", "M001")
+print()
+issue_book("python programming")
